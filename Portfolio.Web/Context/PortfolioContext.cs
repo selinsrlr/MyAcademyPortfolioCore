@@ -23,7 +23,5 @@ namespace Portfolio.Web.Context
 
 
 
-
-
     }
 }
